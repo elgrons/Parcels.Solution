@@ -1,19 +1,30 @@
-# _{Application Name}_
+# _Parcels_
 
 #### By Eliot Gronstal
 
-#### _{Brief description of application}_
+#### _A website for a fictional shipping company that helps users calculate shipping estimates. Made for Epicodus Coding School during Week 2 of C#._
 
 ## Technologies Used
 
 * _C#_
 * _.NET_
-* _you used in your project_
-* _here_
+* _HTML_
+* _CSS_
+* _MSTest_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+* _Create a Parcel class and test it thoroughly. It contains a constructor, and getters and setters for each property. You are able to create a new parcel and specify the dimensions and weight in the arguments._
+
+* _Create a website where the user can submit a form with the dimensions and weight of a Parcel, and you can use the data in the form to instantiate a Parcel object and display its dimensions and weight._
+
+* _When you call a method called Volume() on a Parcel instance, it should return the product of the sides._
+
+* _When you call a CostToShip() method on your parcel, return a cost based on a formula you make up._
+
+* _Display the cost to ship and the volume of a Parcel with its dimensions in your site._
+
+* _Bonus: Add validation and make sure the Parcel object is not created if any of the form fields are blank. Display an error message instead. Also make sure your user can only enter numbers into the form._
 
 ## Setup/Installation Requirements
 

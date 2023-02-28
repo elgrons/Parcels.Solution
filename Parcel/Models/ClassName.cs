@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System;
 
-namespace ProjectName.Models
+namespace Parcel.Models
 {
   public class ClassName
   {
