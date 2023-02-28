@@ -37,8 +37,8 @@
 
 ## Test Instructions
 
-* _Using a shell program, navigate from the root directory, "ClassName.Solution," to the "ClassName.Tests" directory._
-* _Once in the "ClassName.Tests" directory, type ``dotnet restore`` into the console._
+* _Using a shell program, navigate from the root directory, "Parcels.Solution," to the "Parcel.Tests" directory._
+* _Once in the "Parcel.Tests" directory, type ``dotnet restore`` into the console._
 * _After the restore process is complete, type ``dotnet test`` into the console. This will run all written tests and display the test results into the console to review._
 
 ## Known Bugs
