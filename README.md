@@ -33,7 +33,7 @@
 * _In the command line, run the command ``dotnet run`` to compile and execute the console application. Since this is a console application, you'll interact with it through text commands in your terminal._
 * _Optionally, you can run ``dotnet build`` to compile this console app without running it._
 * _If we want to run our project in production mode with a watcher, we can use a command line flag to specify that we want to run the "production" profile. ``dotnet watch run --launch-profile "production"``_
-*  _Open the browser to [https://localhost:5001]. If you cannot access localhost:5001 it is likely because you have not configured a .NET developer security certificate for HTTPS. To learn about this, review this lesson: [Redirecting to HTTPS and Issuing a Security Certificate.](https://www.learnhowtoprogram.com/c-and-net/basic-web-applications/redirecting-to-https-and-issuing-a-security-certificate)_
+*  _Open the browser to [https://localhost:5001](https://localhost:5001]). If you cannot access localhost:5001 it is likely because you have not configured a .NET developer security certificate for HTTPS. To learn about this, review this lesson: [Redirecting to HTTPS and Issuing a Security Certificate.](https://www.learnhowtoprogram.com/c-and-net/basic-web-applications/redirecting-to-https-and-issuing-a-security-certificate)_
 
 ## Test Instructions
 
